@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a Graduate Research Intern at [University of Alberta Canada](https://www.ualberta.ca/)..
 - 🎓 M.Sc. Theoretical Computer Science at [PSG College of Technology](https://www.psgtech.edu/)..
-- 🌱 I’m currently learning Deep Learning for Solving Time Series Classification Problems and Visualization Aspects of Neural Nets..
+- 🌱 I’m currently learning Deep Learning for Solving Time Series Classification Problems and to improve Visualization Aspects of Neural Nets..
 - ⚡ Fun fact: I Love to talk about Science, Technology, Aviation, Life Philosophy..
 
 <!--
