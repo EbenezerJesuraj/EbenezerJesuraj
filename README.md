@@ -2,11 +2,11 @@
 
 ## Ebenezer Jesuraj
 
-- 🔭 I’m currently working as a Graduate Research Intern at [University of Alberta Canada](https://www.ualberta.ca/)..
+- 🔭 I’m a Graduate Research Intern at [University of Alberta Canada](https://www.ualberta.ca/)..
 - 🎓 M.Sc. Theoretical Computer Science at [PSG College of Technology](https://www.psgtech.edu/)..
 - 🌱 I’m currently learning Deep Learning for Solving Time Series Classification Problems and to improve Visualization Aspects of Neural Nets..
 - 💬 Ask me about anything under the Sun on Computer Science..
-- 🤔 Dreamer, Goal Setter, Passionate Learner, Deep Thinker, Curious about the World..
+- 🤔 Passionate Learner,Curious about the World..
 - ⚡ Fun fact: I Love to talk about Science, Technology, Aviation, Life Philosophy..
 - 👯 I’m looking to collaborate on Deep Learning/Machine Learning Projects..
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebenezerjesuraj/)
