@@ -8,7 +8,7 @@
 - 💬 Ask me about anything under the Sun on Computer Science..
 - 🤔 Passionate Learner,Curious about the World..
 - ⚡ Fun fact: I Love to talk about Science, Technology, Aviation, Life Philosophy..
-- 👯 I’m looking to collaborate on Deep Learning/Machine Learning Projects..
+- 👯 I’m looking to collaborate on Machine Learning(RL/DL) Projects..
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebenezerjesuraj/)
 
 ![Ebenezer Jesuraj's Github Stats](https://github-readme-stats.vercel.app/api?username=EbenezerJesuraj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
