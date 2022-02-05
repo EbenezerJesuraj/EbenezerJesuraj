@@ -22,7 +22,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EbenezerJesuraj&theme=solarized_dark) 
 
+<p align="right"> 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EbenezerJesuraj&theme=solarized_dark) 
+</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EbenezerJesuraj&theme=solarized_dark) 
 
