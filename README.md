@@ -16,8 +16,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EbenezerJesuraj" alt="raghav-byte" /> </p>
 
 
-Markdown Usage
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EbenezerJesuraj&theme=solarized_dark) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EbenezerJesuraj&theme=solarized_dark) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EbenezerJesuraj&theme=solarized_dark) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EbenezerJesuraj&theme=solarized_dark) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EbenezerJesuraj&theme=solarized_dark) 
 
 <!--
 **EbenezerJesuraj/EbenezerJesuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
