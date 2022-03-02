@@ -6,6 +6,7 @@
 - 🎓 M.Sc. Theoretical Computer Science at [PSG College of Technology](https://www.psgtech.edu/)..
 - 🌱 I’m currently learning Golang..
 - 💬 Ask me about anything under the Sun on Computer Science..
+- Currently rocking Arch Linux
 - 🤔 Passionate Learner,Curious about the World..
 - ⚡ Fun fact: I Love to talk about Science (Physics-especially), Technology, Aviation, Life Philosophy..
 - 👯 I’m looking to collaborate on Machine Learning(RL/DL) Projects..
