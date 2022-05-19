@@ -4,7 +4,7 @@
 
 - 🔭 I did my Graduate Research Internship at [University of Alberta Canada](https://www.ualberta.ca/)..
 - 🎓 M.Sc. Theoretical Computer Science at [PSG College of Technology](https://www.psgtech.edu/)..
-- 🌱 I’m currently learning Golang and Working on Internal Projects at an Indian Start-Up..
+- 🌱 I’m currently learning Golang and Working on Internal Projects at an Indian Tech Start-Up..
 - 💬 Ask me about anything under the Sun on Computer Science..
 - Currently rocking Arch Linux
 - 🤔 Passionate Learner,Curious about the World, Loves Transfer Learning Concept..
