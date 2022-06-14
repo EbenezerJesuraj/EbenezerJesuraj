@@ -10,7 +10,7 @@
 - 🤔 Passionate Learner,Curious about the World, Loves Transfer Learning Concept..
 - ⚡ Fun fact: I Love to talk about Science (Physics-especially), Technology, Aviation, Life Philosophy..
 - 👯 I’m looking to collaborate on Machine Learning(RL/DL) Projects..
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebenezerjesuraj/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebenezerjesuraj/) |                               [Facebook](https://www.facebook.com/EbenezerJesuraj/)
 - One can find me on: [Spotify](https://open.spotify.com/user/21oiy6zlfug443wfth6iifuyq?si=3136887e36c742da)
 
 ![Ebenezer Jesuraj's Github Stats](https://github-readme-stats.vercel.app/api?username=EbenezerJesuraj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
