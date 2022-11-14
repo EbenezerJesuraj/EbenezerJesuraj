@@ -1,0 +1,117 @@
+name: Metrics
+on:
+  schedule: 
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: header.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: header
+          config_timezone: Asia/Kolkata
+  
+  repositories:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: repositories
+          config_timezone: Asia/Kolkata
+
+  acti_comm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: acti_comm.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: activity, community
+          config_timezone: Asia/Kolkata
+
+  iso_calender:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: iso_calender.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+  issue_pr_lang:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: issue_pr_lang.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_followup: yes
+          plugin_languages: yes
+  
+  lines:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: lines-of-code.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          config_timezone: Asia/Kolkata
+          plugin_lines: yes
+
+  habits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+          template: classic
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+  
+  achievements:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+  
+  contributions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: contributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_notable: yes
+          plugin_notable_from: all
