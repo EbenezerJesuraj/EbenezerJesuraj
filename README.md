@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 -->
 
-
+<!--
 <a href="https://github.com/EbenezerJesuraj">
   <img align="center" width="49%" src="./header.svg" />
 </a>
@@ -71,3 +71,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/EbenezerJesuraj">
     <img align="center" width="49%" src="./contributions.svg" />
 </a>
+
+-->
