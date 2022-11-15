@@ -15,7 +15,7 @@
 
 - One can find me on: [Spotify](https://open.spotify.com/user/21oiy6zlfug443wfth6iifuyq?si=3136887e36c742da) | [YT Music](https://music.youtube.com/channel/UC1Hx21c2FHMqKzFoOH92UOA)
 
-- Fun Fact: I usually love scienctific documentaries in Nat-Geo (have been watching it in since Chilhood).. 
+- Fun Fact: I usually love Scientific documentaries in Nat-Geo (have been watching it in since Chilhood).. 
 
 - The Series I have Watched since childhood are Power Ranger Series (:)), Ben 10 Series, Loved anything which involved science and Logic behind it :)
 
