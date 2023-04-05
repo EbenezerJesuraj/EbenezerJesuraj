@@ -17,8 +17,6 @@
 
 - Fun Fact: I usually love Scientific documentaries in Nat-Geo (have been watching it in since Chilhood).. 
 
-- The Series I have Watched since childhood are Power Ranger Series (:)), Ben 10 Series, Loved anything which involved science and Logic behind it :)
-
 ![Ebenezer Jesuraj's Github Stats](https://github-readme-stats.vercel.app/api?username=EbenezerJesuraj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EbenezerJesuraj" alt="raghav-byte" /> </p>
