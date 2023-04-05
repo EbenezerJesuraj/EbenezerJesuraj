@@ -15,10 +15,6 @@
 
 - One can find me on: [Spotify](https://open.spotify.com/user/21oiy6zlfug443wfth6iifuyq?si=3136887e36c742da) | [YT Music](https://music.youtube.com/channel/UC1Hx21c2FHMqKzFoOH92UOA)
 
-- Fun Fact: I usually love Scientific documentaries in Nat-Geo (have been watching it in since Chilhood).. 
-
-- Always a fan of the British/American Architecture/LifeStyle..
-
 ![Ebenezer Jesuraj's Github Stats](https://github-readme-stats.vercel.app/api?username=EbenezerJesuraj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EbenezerJesuraj" alt="raghav-byte" /> </p>
