@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I Love to talk about Science (Physics-especially), Technology, Aviation, Life Philosophy..
 - 👯 I’m looking to collaborate on Machine Learning(RL/DL) Projects..
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebenezerjesuraj/) |                               [Facebook](https://www.facebook.com/EbenezerJesuraj/)    |     [Instagram](https://www.instagram.com/ebenezerjesuraj/)     |                          [Reddit](https://www.reddit.com/user/EbenezerJesuraj) | [Medium](https://medium.com/@ebenezerjesuraj)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebenezerjesuraj/) |                       [Reddit](https://www.reddit.com/user/EbenezerJesuraj) | [Medium](https://medium.com/@ebenezerjesuraj)
 
 - One can find me on: [Spotify](https://open.spotify.com/user/21oiy6zlfug443wfth6iifuyq?si=3136887e36c742da) | [YT Music](https://music.youtube.com/channel/UC1Hx21c2FHMqKzFoOH92UOA)
 
