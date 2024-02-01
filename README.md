@@ -13,8 +13,6 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebenezerjesuraj/) |                       [Reddit](https://www.reddit.com/user/EbenezerJesuraj) | [Medium](https://medium.com/@ebenezerjesuraj)
 
-- One can find me on: [Spotify](https://open.spotify.com/user/21oiy6zlfug443wfth6iifuyq?si=3136887e36c742da) | [YT Music](https://music.youtube.com/channel/UC1Hx21c2FHMqKzFoOH92UOA)
-
 - Check me out on: [CodeChef](https://www.codechef.com/users/ebenezerjesu) | [HackerRank](https://www.hackerrank.com/profile/EbenezerJesuraj) | [CodeForces](https://codeforces.com/profile/EbenezerJesuraj) | [Chess](https://www.chess.com/member/ebenezerjesuraj)
 
 ![Ebenezer Jesuraj's Github Stats](https://github-readme-stats.vercel.app/api?username=EbenezerJesuraj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
