@@ -10,6 +10,7 @@
 - 🤔 Curious about the World
 - ⚡ Fun fact: I Love to talk about Technology, Aviation, Life Philosophy..
 - 👯 I’m looking to collaborate on Machine Learning(RL/DL) Projects..
+-  An avid fictional book-reader expecially Dan Brown..
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebenezerjesuraj/) |                       [Reddit](https://www.reddit.com/user/EbenezerJesuraj) | [Medium](https://medium.com/@ebenezerjesuraj)
 
