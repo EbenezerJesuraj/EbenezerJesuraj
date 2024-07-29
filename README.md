@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I Love to talk about Technology, Aviation, Life Philosophy..
 - 👯 I’m looking to collaborate on Machine Learning(RL/DL) Projects..
 - An avid fictional book-reader expecially Dan Brown..
-- Science-fiction Enthusiast and loves anything under the sun about technology amongst other things.
+- Science-fiction Enthusiast and loves anything under the sun about technology,aviation amongst other things.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebenezerjesuraj/) |                       [Reddit](https://www.reddit.com/user/EbenezerJesuraj) | [Medium](https://medium.com/@ebenezerjesuraj)
 
