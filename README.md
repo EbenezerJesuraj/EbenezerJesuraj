@@ -13,8 +13,9 @@
 - An avid fictional book-reader expecially Dan Brown..
 - Science-fiction Enthusiast and loves anything under the sun about technology,aviation amongst other things.
 - Always loves to engage in interesting conversations, conspiracy theories and other fanatics.
+- A Fan of Air Crash Investigation, always willing to collaborate on new CS Projects.
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebenezerjesuraj/) |                       [Reddit](https://www.reddit.com/user/EbenezerJesuraj) | [Medium](https://medium.com/@ebenezerjesuraj)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebenezerjesuraj/) | [Reddit](https://www.reddit.com/user/EbenezerJesuraj) | [Medium](https://medium.com/@ebenezerjesuraj)
 
 - Check me out on: [CodeChef](https://www.codechef.com/users/ebenezerjesu) | [HackerRank](https://www.hackerrank.com/profile/EbenezerJesuraj) | [CodeForces](https://codeforces.com/profile/EbenezerJesuraj) | [Chess](https://www.chess.com/member/ebenezerjesuraj) | [StopStalk](https://www.stopstalk.com/user/profile/EbenezerJesuraj)
 
