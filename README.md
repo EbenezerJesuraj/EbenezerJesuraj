@@ -4,7 +4,7 @@
 
 - 🔭 I did my Graduate Research Internship at [University of Alberta Canada](https://www.ualberta.ca/)..
 - 🎓 M.Sc. Theoretical Computer Science at [PSG College of Technology](https://www.psgtech.edu/)..
-- 🌱 I’m currently Working on Internal Projects at an Indian Tech Start-Up [Beez Innovation Labs Pvt. Ltd](https://github.com/beezlabs-org)..
+- 🌱 I’m currently Working on Internal Projects at Lennox.
 - 💬 Talks about anything under the Sun on Computer Science..
 - Currently rocking **Arch Linux**
 - 🤔 Curious about the World
@@ -14,6 +14,7 @@
 - Science-fiction Enthusiast and loves anything under the sun about technology,aviation amongst other things.
 - Always loves to engage in interesting conversations, conspiracy theories and other fanatics.
 - A Fan of Air Crash Investigation, always willing to collaborate on new CS Projects.
+- A Fan of Linus Sebastian in the Tech Industry.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebenezerjesuraj/) | [Reddit](https://www.reddit.com/user/EbenezerJesuraj) | [Medium](https://medium.com/@ebenezerjesuraj)
 
