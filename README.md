@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I Love to talk about Technology, Aviation, Life Philosophy..
 - 👯 I’m looking to collaborate on Machine Learning(RL/DL) Projects..
 - An avid fictional book-reader expecially Dan Brown..
-- Science-fiction Enthusiast and loves anything under the sun about technology,aviation amongst other things.
+- Science-fiction Enthusiast and loves anything under the sun about Technology, Aviation amongst other things.
 - Always loves to engage in interesting conversations, conspiracy theories and other fanatics.
 - A Fan of Air Crash Investigation, always willing to collaborate on new CS Projects.
 - A Fan of Linus Sebastian in the Tech Industry.
