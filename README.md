@@ -4,7 +4,7 @@
 
 - 🔭 I did my Graduate Research Internship at [University of Alberta Canada](https://www.ualberta.ca/)..
 - 🎓 M.Sc. Theoretical Computer Science at [PSG College of Technology](https://www.psgtech.edu/)..
-- 🌱 I’m currently Working on Internal Projects at Lennox.
+- 🌱 I’m currently Working at Lennox.
 - 💬 Talks about anything under the Sun on Computer Science..
 - Currently rocking **Arch Linux**
 - 🤔 Curious about the World
