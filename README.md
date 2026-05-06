@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Ebenezer Jesuraj
+## Ebenezer
 
 - 🔭 I did my Graduate Research Internship at [University of Alberta Canada](https://www.ualberta.ca/)..
 - 🎓 M.Sc. Theoretical Computer Science at [PSG College of Technology](https://www.psgtech.edu/)..
