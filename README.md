@@ -23,9 +23,14 @@
 
 - Check me out on: [LeetCode](https://leetcode.com/u/ebenezerjesuraj) | [CodeChef](https://www.codechef.com/users/ebenezerjesu) | [HackerRank](https://www.hackerrank.com/profile/EbenezerJesuraj) | [CodeForces](https://codeforces.com/profile/EbenezerJesuraj) | [Chess](https://www.chess.com/member/ebenezerjesuraj) | [Codolio](https://codolio.com/profile/EbenezerJesuraj)
 
-![Ebenezer Jesuraj's Github Stats](https://github-readme-stats.vercel.app/api?username=EbenezerJesuraj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-[![Ebenezer's LeetCode Stats](https://leetcard.jacoblin.cool/ebenezerjesuraj?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/ebenezerjesuraj)
+<p align="left">
+  <a href="https://camo.githubusercontent.com/3dae3599bb7dd85bdcf35142f0f4c4422013d6d21805699fd5f0509c1c004f37/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4562656e657a65724a65737572616a2673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EbenezerJesuraj&show_icons=true&theme=radical" alt="Ebenezer Jesuraj's Github Stats" />
+  </a>
+  <a href="https://leetcode.com/u/ebenezerjesuraj">
+    <img width="48%" src="https://leetcard.jacoblin.cool/ebenezerjesuraj?theme=dark&ext=heatmap" alt="Ebenezer's LeetCode Stats" />
+  </a>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EbenezerJesuraj" alt="raghav-byte" /> </p>
