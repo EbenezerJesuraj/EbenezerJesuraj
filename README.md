@@ -25,6 +25,16 @@
 
 ![Ebenezer Jesuraj's Github Stats](https://github-readme-stats.vercel.app/api?username=EbenezerJesuraj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+<p align="left">
+  <a href="https://codolio.com/profile/EbenezerJesuraj">
+    <img width="48%" alt="profileCard" src="https://github.com/user-attachments/assets/b6565751-24ed-417d-a3c7-bbdcb276b674" />
+  </a>
+  <a href="https://codolio.com/profile/EbenezerJesuraj">
+    <img width="48%" alt="devCard" src="https://github.com/user-attachments/assets/f10ced65-0965-4111-94a4-1967b705848f" />
+  </a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EbenezerJesuraj" alt="raghav-byte" /> </p>
 
 
